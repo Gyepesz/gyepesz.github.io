@@ -1,4 +1,38 @@
 p{
-  width: auto;
-  height: auto;
+  width: 560px;
+  height: 315px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
 }
+
+div{
+  font-size: 50px;
+  font-family: 'Fredericka the Great', cursive;
+  text-align: center;
+}
+.bsz{
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  margin-top: 130px;
+}
+.container{
+  padding-top: 70px;
+}
+
+body{
+  background-image:url(./1.png);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*font-family: 'Bangers', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Indie Flower', cursive;
+font-family: 'Caveat', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Rock Salt', cursive;
+font-family: 'Fredericka the Great', cursive;
